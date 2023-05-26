@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/omnipotence_shop/static/css/main.f03a1631.css",
-    "main.js": "/omnipotence_shop/static/js/main.bd5b5fae.js",
+    "main.css": "/omnipotence_shop/static/css/main.dbbe2636.css",
+    "main.js": "/omnipotence_shop/static/js/main.ba0efdc8.js",
     "static/js/787.8697a89b.chunk.js": "/omnipotence_shop/static/js/787.8697a89b.chunk.js",
     "index.html": "/omnipotence_shop/index.html",
-    "main.f03a1631.css.map": "/omnipotence_shop/static/css/main.f03a1631.css.map",
-    "main.bd5b5fae.js.map": "/omnipotence_shop/static/js/main.bd5b5fae.js.map",
+    "main.dbbe2636.css.map": "/omnipotence_shop/static/css/main.dbbe2636.css.map",
+    "main.ba0efdc8.js.map": "/omnipotence_shop/static/js/main.ba0efdc8.js.map",
     "787.8697a89b.chunk.js.map": "/omnipotence_shop/static/js/787.8697a89b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f03a1631.css",
-    "static/js/main.bd5b5fae.js"
+    "static/css/main.dbbe2636.css",
+    "static/js/main.ba0efdc8.js"
   ]
 }
